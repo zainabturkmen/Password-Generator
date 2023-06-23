@@ -81,3 +81,13 @@ font-size: 20px;
    border-radius: 5px;
    cursor: pointer;
 }
+
+@media only screen and (min-with: 600px) {
+    body{
+        background-color: black;
+    }
+
+    span{
+        color: red;
+    }
+}
