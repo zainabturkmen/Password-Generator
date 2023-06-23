@@ -30,7 +30,7 @@ const characters = [
 
 
 ResetBtn.addEventListener("click", () => {
-    firstInput.textContent = ''
-    secondInput.textContent = ''
+    firstInput.textContent = '';
+    secondInput.textContent = '';
 })
  
