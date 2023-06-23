@@ -67,10 +67,17 @@ font-size: 20px;
 
 @media only screen and (max-width: 600px) {
 
+    body{
+        display: flex;
+        justify-content: center;
+    }
+
   #main{
     display: flex;
     flex-direction: column;
     width: 400px;
+    margin: 0 auto ;
+    margin-top: 5em;
   }
 
   #both-btn{
@@ -91,8 +98,15 @@ font-size: 20px;
    #resetBtn{
     align-items: center;
     margin-top: 10px;
-    font-size: 25px;
+    font-size: 20px;
     margin-bottom: -1em;
+    padding: 5px 5px;
+   }
+
+   #generateBtn, #resetBtn{
+    padding: 10px 5px;
+    width: 350px;
+    margin-left: 1.2em;
    }
 
    h1{
