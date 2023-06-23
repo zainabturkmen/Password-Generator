@@ -28,7 +28,7 @@ font-size: 20px;
 
 }
 
-#generateBtn {
+#generateBtn, #resetBtn {
     color: black;
     background: #55F991 ;
     margin-top: 40px;
@@ -51,18 +51,8 @@ font-size: 20px;
   margin-bottom: 100px;
 }
 
-#first-input {
-    border: 1px solid #273549;
-    padding: 20px 60px 10px 60px;
-    margin-top: 40px;
-    margin-right: 10px;
-    border-radius: 5px;
-    background: #273549;
-    color: #55F991;
 
-}
-
-#second-input {
+#second-input, #first-input {
     border: 1px solid #273549;
     padding: 20px 60px 10px 60px;
     margin-top: 40px;
@@ -72,7 +62,7 @@ font-size: 20px;
     color: #55F991;
 }
 
-#resetBtn{
+{
    background-color: #55F991;
    border: none;
    padding: 10px 20px;
