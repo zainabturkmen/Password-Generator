@@ -29,12 +29,12 @@ font-size: 20px;
 }
 
 #generateBtn {
-    color: white;
-    background: #4ADF86 ;
+    color: black;
+    background: #55F991 ;
     margin-top: 40px;
     padding: 18px;
     border-radius: 6px;
-    border: 0px solid #10B981;
+    border: 0px solid #4ADF86;
     cursor: pointer;
     font-size: 20px;
 }
@@ -106,6 +106,9 @@ font-size: 20px;
 
    #resetBtn{
     align-items: center;
+    margin-top: 10px;
+    font-size: 25px;
+    margin-bottom: -1em;
    }
 
    h1{
