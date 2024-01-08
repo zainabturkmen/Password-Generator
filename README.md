@@ -1,5 +1,4 @@
 
-Quick start:
 
 ```
 $ npm install
