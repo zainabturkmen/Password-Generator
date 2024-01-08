@@ -9,7 +9,7 @@ const characters = [
 
  let firstInput = document.getElementById("first-input");
  let secondInput = document.getElementById("second-input");
-  
+ let ResetBtn = document.getElementById("resetBtn")
  
  function generatePassword(){
 
@@ -23,7 +23,14 @@ const characters = [
      
      firstInput.textContent = firstRandomPassword;
      secondInput.textContent = secondRandomPassword;
+
  };
  
  generatePassword();
+
+
+ResetBtn.addEventListener("click", () => {
+    firstInput.textContent = ''
+    secondInput.textContent = ''
+})
  
