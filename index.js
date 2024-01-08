@@ -25,4 +25,4 @@ const characters = [
      secondInput.textContent = secondRandomPassword;
  };
  
- generatePassword()
+ generatePassword();
