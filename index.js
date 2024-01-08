@@ -7,8 +7,8 @@ const characters = [
      ",","|",":",";","<",">",".","?","/"
 ];
 
- let firstInput = document.getElementById("first-input")
- let secondInput = document.getElementById("second-input")
+ let firstInput = document.getElementById("first-input");
+ let secondInput = document.getElementById("second-input");
   
  
  function generatePassword(){
