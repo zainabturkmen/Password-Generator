@@ -1,5 +1,5 @@
 
-PASSWORD GENERATOR APP  
+PASSWORD GENERATOR APP😍😎🥳 
 
 ![Alt text](<Screenshot 2024-01-08 115801.png>) 
 
