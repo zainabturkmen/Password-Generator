@@ -23,6 +23,6 @@ const characters = [
      
      firstInput.textContent = firstRandomPassword;
      secondInput.textContent = secondRandomPassword;
- }
+ };
  
  generatePassword()
