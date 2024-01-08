@@ -82,12 +82,14 @@ font-size: 20px;
    cursor: pointer;
 }
 
-@media only screen and (min-with: 600px) {
-    body{
-        background-color: black;
-    }
+@media only screen and (min-with: 700px) {
+  
 
     span{
         color: red;
+    }
+
+    h1{
+        color: blue;
     }
 }
