@@ -11,7 +11,6 @@ const characters = [
  let secondInput = document.getElementById("second-input")
   
  
- 
  function generatePassword(){
 
      let  firstRandomPassword = '';
