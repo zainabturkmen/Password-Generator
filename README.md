@@ -1,4 +1,3 @@
-# cpGkkLtz
 
 Quick start:
 
