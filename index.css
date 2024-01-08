@@ -10,22 +10,21 @@ html, body {
     margin: 100px 100px 0px 50px;
 }
 
-#generate {
-    color: #2B283A;
-    margin-bottom: 0px;
-
-    
+span{
+  color: #4ADF86;
 }
 
-#random {
- color: #55F991;
+h1 {
+ color: #1C1C1C;
  margin-top: 0px;
  margin-bottom: 10px;
+ font-size: 40px;
 }
 
 p{
-color: #6B7280;
+color: 1C1C1C;
 margin-top: 0px;
+font-size: 20px;
 
 }
 
