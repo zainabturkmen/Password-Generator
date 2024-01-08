@@ -21,7 +21,7 @@ const characters = [
          secondRandomPassword += characters[Math.floor(Math.random() * characters.length)];
      }
      
-     firstInput.textContent = firstRandomPassword
+     firstInput.textContent = firstRandomPassword;
      secondInput.textContent = secondRandomPassword
  }
  
