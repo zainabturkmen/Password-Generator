@@ -26,4 +26,3 @@ const characters = [
  }
  
  generatePassword()
- 
